@@ -1,16 +1,16 @@
 # 👋 Hey there! I'm Josh  
 
-**📌 Senior CS Major @ Fairmont State University (Graduating May 2025)**  
+**📌 Bachelor of Science in Computer Science @ Fairmont State University (Graduated May 2025)**  
 **💻 Software Developer | Data Enthusiast | AWS & Python Focused**
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Senior **Computer Science** student, specializing in **full-stack development** with a focus on **AWS & cloud computing**.  
+- 🎓 Recent **Computer Science** graduate, specializing in **full-stack development** with a focus on **AWS & cloud computing**.  
 - 💡 Passionate about **data science**, automation, and **building efficient backend systems**.  
 - 🔧 Currently learning **React.js** on the fly for my **senior project**, which involves an **AWS-hosted web app** with **FastAPI & Flask**.  
 - 🛠️ **Tech Stack:** Python | Java | FastAPI | Flask | AWS | React.js | Angular | SQL | JavaFX  
-- 🎯 Seeking opportunities in **data science, cloud engineering, and software development applications**.  
+- 🎯 Seeking opportunities in **data science, cloud engineering, and software development applications**.
 
 ---
 
@@ -28,10 +28,3 @@
 ✉️ **Email**: [xJAGx1987x@gmail.com](mailto:xJAGx1987x@gmail.com)  
 
 Let's build something awesome! 🚀  
-
-
-
-<!---
-xJAGx1987x/xJAGx1987x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
