@@ -22,10 +22,7 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-george-76493a2b7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/xJAGx1987x)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://TripleMStudio.dev)
-[![Spotify](https://img.shields.io/badge/Spotify-Follow-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/yplc474phjywhm9p5sp8qdawg?si=_fDtKyVbT72rbpUpwQxd0A)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-george-76493a2b7/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/xJAGx1987x) [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://TripleMStudio.dev) [![Spotify](https://img.shields.io/badge/Spotify-Follow-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/yplc474phjywhm9p5sp8qdawg?si=_fDtKyVbT72rbpUpwQxd0A)
 
 
 ---
