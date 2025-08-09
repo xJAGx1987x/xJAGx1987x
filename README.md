@@ -15,6 +15,8 @@
 ---
 
 ## 🏗️ Current Projects 
+🌐 **[TripleMStudio](https://TripleMStudio.dev): **Personal Portfolio** used to display and build real-world applets as my understanding of web-development and data handling with **Vue** and **python**. 
+  - **Currently Hosting**: [Lyrics Search](https://TripleMStudio.dev/projects/lyrics-search/), a fastAPI + syncedlyrics api for viewing time synced lyrics of most songs (offers non-timestamped option as well).  
 🚧 **[Senior Project – AWS Web App](#)**: A **full-stack cloud-based project** leveraging **FastAPI, Flask, and AWS services**.  
 📊 **LEAD Data Mining Tool**: A **Python & GUI-based application** designed to **process tutoring program data** efficiently.  
 
